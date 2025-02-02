@@ -25,13 +25,4 @@ Cada desafio estará dentro da sua respectiva pasta de nível de dificuldade.
 ## 📚 Referências
 - [HackerRank](https://www.hackerrank.com/)
 
----
 
-Caso queira editar o `README.md`, basta abrir o arquivo e modificar o texto conforme necessário.
-
-Agora, basta criar o arquivo no IntelliJ:
-1. Clique com o botão direito no projeto.
-2. Selecione **New > File**.
-3. Nomeie o arquivo como `README.md` e cole o conteúdo acima.
-
-Me avise se precisar de algo mais! 🚀😃
