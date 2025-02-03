@@ -13,9 +13,9 @@ Meu objetivo é praticar lógica de programação e melhorar minhas habilidades 
 ## 📌 Como navegar
 Cada desafio estará dentro da sua respectiva pasta de nível de dificuldade.
 
-📂 **Easy/**
-📂 **Medium/**
-📂 **Hard/**
+- 📂 **Easy/**
+- 📂 **Medium/**
+- 📂 **Hard/**
 
 
 ## 🛠 Tecnologias
