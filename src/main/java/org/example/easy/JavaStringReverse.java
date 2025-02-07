@@ -14,6 +14,7 @@ public class JavaStringReverse {
         if (name.equalsIgnoreCase(newString.toString())) System.out.println("yes");
         else { System.out.println("No");}
 
+
         sc.close();
     }
 }
